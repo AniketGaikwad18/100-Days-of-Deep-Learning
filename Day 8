@@ -1,1 +1,11 @@
+Day 8 of #100DaysOfDeepLearning
 
+Today, I explored Loss Functions in Deep Learning and understood how they measure the difference between actual and predicted values.
+
+I studied MSE, MAE, Huber Loss, Binary Cross-Entropy, and Categorical Cross-Entropy, along with their mathematical formulations and use cases.
+
+I’m focusing on understanding the intuition and mathematics behind each concept, not just implementing them with code.
+
+✍️ I believe writing down what I learn first and then implementing it helps build a much stronger foundation.
+
+#DeepLearning #MachineLearning #100DaysOfDeepLearning #LearningInPublic
