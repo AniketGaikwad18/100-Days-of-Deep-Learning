@@ -1,0 +1,16 @@
+Day 12 of #100DaysOfDeepLearning — Batch vs Stochastic Gradient Descent
+
+Today, I explored Batch Gradient Descent vs Stochastic Gradient Descent and understood how the choice of batch size affects the training process of a neural network.
+
+Instead of only learning the definitions, I implemented both approaches on the Social Network Ads dataset and compared their training behaviour.
+
+🔹 Stochastic Gradient Descent: batch_size = 1 — updates the model using one sample at a time, resulting in more frequent but noisier updates.
+🔹 Batch Gradient Descent: batch_size = 250 — uses a larger portion of the dataset for each update, producing more stable updates.
+
+I also visualized the loss curves to understand how differently the model converges under different batch sizes.
+
+The main takeaway: batch size is not just a parameter—it directly influences the optimization dynamics, convergence, and training behaviour of a neural network. 🧠
+
+Continuing to build my Deep Learning foundation by understanding the concepts first and then validating them through implementation.
+
+#DeepLearning #GradientDescent #MachineLearning #NeuralNetworks #100DaysOfDeepLearning #LearningInPublic
