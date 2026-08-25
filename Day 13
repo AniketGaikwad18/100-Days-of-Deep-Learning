@@ -1,1 +1,17 @@
+Day 13 — Neural Network Hyperparameter Tuning 🧠
+Day 13 of my #100DaysOfDeepLearning journey.
 
+Today, I focused on improving Neural Network performance through hyperparameter tuning and understanding how different choices affect training.
+
+🔹 Hidden layers & neurons
+🔹 Learning rate & optimizers
+🔹 Batch size
+🔹 Activation functions
+🔹 Number of epochs
+🔹 Handling vanishing gradients, limited data, slow training, and overfitting
+🔹 Early stopping & learning-rate warm-up
+🔹 Transfer learning
+
+The key takeaway for me: good deep learning performance isn't only about building a bigger network — it's about choosing the right architecture and training strategy for the problem.
+
+Continuing to learn, experiment, and build. 🚀
