@@ -1,1 +1,28 @@
+1. Learning Rate Warm-up
 
+Instead of starting training with a large learning rate, we start small and gradually increase it.
+
+Why?
+It prevents unstable updates at the beginning of training and helps the model learn smoothly.
+
+Simple idea:
+Small LR → Gradually increase → Normal LR
+
+
+2. Transfer Learning
+
+Instead of training a neural network from scratch, we use a pre-trained model that has already learned useful features.
+
+Example:
+
+Pre-trained Model → Reuse learned layers → Train on our dataset
+
+Why?
+
+Requires less data
+Faster training
+Often gives better performance
+
+Simple idea:
+
+Don't learn everything again; reuse what the model already knows.
