@@ -1,0 +1,14 @@
+Day 15 — Data Scaling & Early Stopping 🧠
+
+Continuing my #100DaysOfDeepLearning journey with Day 15.
+
+Today I learned two important concepts for improving neural network training:
+
+🔹 Early Stopping — stopping training when the model stops improving, helping prevent overfitting.
+🔹 Data Scaling & Normalization — bringing features to a similar scale so the model can train faster and more effectively.
+
+I also understood why unscaled data can make the loss surface uneven, while normalized data makes optimization more balanced.
+
+Another day of focusing on understanding the concepts before implementing them. 🚀
+
+#100DaysOfDeepLearning #DeepLearning #NeuralNetworks #MachineLearning #AI #LearningInPublic #AIML
