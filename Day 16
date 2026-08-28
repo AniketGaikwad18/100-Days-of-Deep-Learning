@@ -1,1 +1,18 @@
+Day 16 — Activation Functions 🧠
 
+Continuing my #100DaysOfDeepLearning journey with Day 16.
+
+Today I focused on Activation Functions and why they are essential for introducing non-linearity into neural networks.
+
+I studied:
+
+ReLU — \(f(x)=\max(0,x)\)
+Leaky ReLU (LReLU) — allows a small non-zero output for negative inputs.
+Randomized ReLU (RReLU) — uses a randomly selected coefficient for the negative region.
+Compared ReLU, LReLU, and RReLU based on their functions, α values, negative regions, advantages, and typical use.
+
+The key takeaway: activation functions determine how a neuron responds to its input and allow neural networks to learn complex patterns.
+
+Day 16/100 🚀
+
+#100DaysOfDeepLearning #DeepLearning #NeuralNetworks #MachineLearning #AI #ActivationFunctions #LearningInPublic
