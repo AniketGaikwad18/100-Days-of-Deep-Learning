@@ -1,4 +1,5 @@
 Additional Work — Functional API & Multi-Output Deep Learning 🧠🏗️
+(ARCHITECTURE BLOG https://machinelearningmastery.com/keras-functional-api-deep-learning/)
 
 Alongside Day 33, I explored the Keras Functional API and moved beyond simple sequential architectures.
 
