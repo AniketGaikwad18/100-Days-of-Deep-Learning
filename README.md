@@ -6,3 +6,4 @@ I know doing it is aloy difficult but someday I will clear all the basis and do 
 🚀 Goal: Learn → Implement → Experiment → Build → Master Deep Learning.
 
 still trying to understand the ML concept at deepest knowledge 
+keep trying
