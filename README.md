@@ -4,6 +4,3 @@ This repository documents my daily learning, handwritten notes, implementations,
 I know it is very difficult to solve but I will implement each and every concept and solve it
 I know doing it is aloy difficult but someday I will clear all the basis and do all the work.
 🚀 Goal: Learn → Implement → Experiment → Build → Master Deep Learning.
-
-still trying to understand the ML concept at deepest knowledge 
-keep trying
